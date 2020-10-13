@@ -18,4 +18,4 @@ platform_packages =
    tool-teensy@https://github.com/maxgerhardt/pio-tool-teensy-arm64/archive/master.zip
 ```
 
-Note that another part of the workaround is to copy the missing `libarm_cortexM7lfsp_math.a` as instructed in https://github.com/platformio/platform-teensy/issues/51#issuecomment-679424383.
+Note that another part of the workaround is to copy the missing `libarm_cortexM7lfsp_math.a` as instructed in https://github.com/platformio/platform-teensy/issues/51#issuecomment-679424383. This file is also contained in this repository for convenience. 
